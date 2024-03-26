@@ -4,7 +4,7 @@ const oldTracks = ["6514cb7dfc3aa9caa098f4b4", "651b950efc3aa9caa0a668e6", "651c
 
 const headers = {"Authorization":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NWZmZDMyNWQ2MjRiZDI2YjRkODRjZmEiLCJpbnRlbnQiOiJvQXV0aCIsImlhdCI6MTcxMTI2NDU0OX0.p311xWHbZDy7P37h6kh-k5AgN-S81-d5SM0LZtw5L5Q"};
 
-const removedAccounts = [];
+const removedAccounts = [""];
 
 function condense(arr) {
   const counts = {};
